@@ -1,1 +1,72 @@
+IdCliente;NombreCliente;Direccion;Telefono;Correo
+1;Alfreds Futterkiste;Obere Str. 57;504 9742648;alfred@gmil.com
+2;Ana Trujillo Emparedados y helados;Avda. de la Constitución 2222;504 9742667;ana@gmil.com
+3;Antonio Moreno Taquería;Mataderos 2312;504 974456;toni@yahoo.com
+4;Around the Horn;120 Hanover Sq.;504 9756723;gshsj@gmil.com
+5;Berglunds snabbköp;Berguvsvägen 8;504 9246623;uio@gmil.com
+6;Blauer See Delikatessen;Forsterstr. 57;504 9745678;hjko@gmil.com
+7;Blondel père et fils;24, place Kléber;504 567267;blodel@gmail.com
+8;Bólido Comidas preparadas;C/ Araquil, 67;504 9742648;boli@gmil.com
+9;Bon app';12, rue des Bouchers;504 9742665;alfred@gmil.com
+10;Bottom-Dollar Marketse;23 Tsawassen Blvd.;504 9742690;ana@gmil.com
+11;B's Beverages;Fauntleroy Circus;504 974263;toni@yahoo.com
+12;Cactus Comidas para llevar;Cerrito 333;504 9742606;gshsj@gmil.com
+13;Centro comercial Moctezuma;Sierras de Granada 9993;504 974579;uio@gmil.com
+14;Chop-suey Chinese;Hauptstr. 29;504 983456;hjko@gmil.com
+15;Comércio Mineiro;Av. dos Lusíadas, 23;504 0985843;blodel@gmail.com
+16;Consolidated Holdings;Berkeley Gardens 12 Brewery;504 912347;boli@gmil.com
+17;Drachenblut Delikatessend;Walserweg 21;504 128394;mario@gmil.com
+18;Du monde entier;67, rue des Cinquante Otages;504 64833;mario@gmil.com
+19;Eastern Connection;35 King George;504 9742648;mario@gmil.com
+20;Ernst Handel;Kirchgasse 6;504 9742648;mario@gmil.com
+21;Familia Arquibaldo;Rua Orós, 92;504 9742648;mario@gmil.com
+22;FISSA Fabrica Inter. Salchichas S.A.;C/ Moralzarzal, 86;504 9742648;mario@gmil.com
+23;Folies gourmandes;184, chaussée de Tournai;504 9742648;mario@gmil.com
+24;Folk och fä HB;Åkergatan 24;504 9742648;mario@gmil.com
+25;Frankenversand;Berliner Platz 43;504 9742648;mario@gmil.com
+26;France restauration;54, rue Royale;504 9742648;mario@gmil.com
+27;Franchi S.p.A.;Via Monte Bianco 34;504 9742648;mario@gmil.com
+28;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;504 9742648;mario@gmil.com
+29;Galería del gastrónomo;Rambla de Cataluña, 23;504 9742648;mario@gmil.com
+30;Godos Cocina Típica;C/ Romero, 33;504 9742648;mario@gmil.com
+31;Gourmet Lanchonetes;Av. Brasil, 442;504 9742648;mario@gmil.com
+32;Great Lakes Food Market;2732 Baker Blvd.;504 9742648;mario@gmil.com
+33;GROSELLA-Restaurante;5ª Ave. Los Palos Grandes;504 9742648;mario@gmil.com
+34;Hanari Carnes;Rua do Paço, 67;504 9742648;mario@gmil.com
+35;HILARIÓN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;504 9742648;mario@gmil.com
+36;Hungry Coyote Import Store;City Center Plaza 516 Main St.;504 9742648;mario@gmil.com
+37;Hungry Owl All-Night Grocers;8 Johnstown Road;504 9742648;mario@gmil.com
+38;Island Trading;Garden House Crowther Way;504 9742648;mario@gmil.com
+39;Königlich Essen;Maubelstr. 90;504 9742648;mario@gmil.com
+40;La corne d'abondance;67, avenue de l'Europe;504 9742648;mario@gmil.com
+41;La maison d'Asie;1 rue Alsace-Lorraine;504 9742648;mario@gmil.com
+42;Laughing Bacchus Wine Cellars;1900 Oak St.;504 9742648;mario@gmil.com
+43;Lazy K Kountry Store;12 Orchestra Terrace;504 9742648;mario@gmil.com
+44;Lehmanns Marktstand;Magazinweg 7;504 9742648;mario@gmil.com
+45;Let's Stop N Shop;87 Polk St. Suite 5;504 9742648;mario@gmil.com
+46;LILA-Supermercado;Carrera 52 con Ave. Bolívar #65-98 Llano Largo;504 9742648;mario@gmil.com
+47;LINO-Delicateses;Ave. 5 de Mayo Porlamar;504 9742648;mario@gmil.com
+48;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;504 9742648;mario@gmil.com
+49;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;504 9742648;mario@gmil.com
+50;Maison Dewey;Rue Joseph-Bens 532;504 9742648;mario@gmil.com
+51;Mère Paillarde;43 rue St. Laurent;504 9742648;mario@gmil.com
+52;Morgenstern Gesundkost;Heerstr. 22;504 9742648;mario@gmil.com
+53;North/South;South House 300 Queensbridge;504 9742648;mario@gmil.com
+54;Océano Atlántico Ltda.;Ing. Gustavo Moncada 8585 Piso 20-A;504 9742648;mario@gmil.com
+55;Old World Delicatessen;2743 Bering St.;504 9742648;mario@gmil.com
+56;Ottilies Käseladen;Mehrheimerstr. 369;504 9742648;mario@gmil.com
+57;Paris spécialités;265, boulevard Charonne;504 9742648;mario@gmil.com
+58;Pericles Comidas clásicas;Calle Dr. Jorge Cash 321;504 0942648;mario@gmil.com
+59;Piccolo und mehr;Geislweg 14;504 979090;mario@gmil.com
+60;Princesa Isabel Vinhoss;Estrada da saúde n. 58;504 909800;mario@gmil.com
+61;Que Delícia;Rua da Panificadora, 12;504 9747483;mario@gmil.com
+62;Queen Cozinha;Alameda dos Canàrios, 891;504 974234;mario@gmil.com
+63;QUICK-Stop;Taucherstraße 10;504 97467;mario@gmil.com
+64;Rancho grande;Av. del Libertador 900;504 9764748;mario@gmil.com
+65;Rattlesnake Canyon Grocery;2817 Milton Dr.;504 8373624;mario@gmil.com
+66;Reggiani Caseifici;Strada Provinciale 124;504 9642449;mario@gmil.com
+67;Ricardo Adocicados;Av. Copacabana, 267;504 9748526;mario@gmil.com
+68;Richter Supermarkt;Grenzacherweg 237;504 45362648;mario@gmil.com
+69;Romero y tomillo;Gran Vía, 1;504 94738648;mario@gmil.com
+70;Santé Gourmet;Erling Skakkes gate 78;504 977464;mario@gmil.com
 
