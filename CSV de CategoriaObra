@@ -1,4 +1,4 @@
-IdCategoriaObra;CategoryName;Description
+IdCategoriaObra;Tipo;Descripcion
 1;Papel;material de la obra artística
 2;Pintura;representación gráfica utilizando pigmentos mezclados
 3;Escultura;modela el barro, tallar en piedra, madera.
