@@ -1,30 +1,30 @@
-IdProveedor;NombreProveedor;Direccion;Telefono;IdCategoriaObra
-1;Exotic Liquid;49 Gilbert St.;(171) 555-2222;1
-2;New Orleans Cajun Delights;P.O. Box 78934;(100) 555-4822;2
-3;Grandma Kelly's Homestead;707 Oxford Rd.;(313) 555-5735;3
-4;Tokyo Traders;9-8 Sekimai Musashino-shi;(03) 3555-5011;3
-5;Cooperativa de Quesos 'Las Cabras';Calle del Rosal 4;(98) 598 76 54;2
-6;Mayumi's;92 Setsuko Chuo-ku;(06) 431-7877;2
-7;Pavlova, Ltd.;74 Rose St. Moonie Ponds;(03) 444-2343;1
-8;Specialty Biscuits, Ltd.;29 King's Way;(161) 555-4448;1
-9;PB Knäckebröd AB;Kaloadagatan 13;031-987 65 43;1
-10;Refrescos Americanas LTDA;Av. das Americanas 12.890;(11) 555 4640;3
-11;Heli Süßwaren GmbH & Co. KG;Tiergartenstraße 5;(010) 9984510;2
-12;Plutzer Lebensmittelgroßmärkte AG;Bogenallee 51;(069) 992755;2
-13;Nord-Ost-Fisch Handelsgesellschaft mbH;Frahmredder 112a;(04721) 8713;3
-14;Formaggi Fortini s.r.l.;Viale Dante, 75;(0544) 60323;1
-15;Norske Meierier;Hatlevegen 5;(0)2-953010;2
-16;Bigfoot Breweries;3400 - 8th Avenue Suite 210;(503) 555-9931;4
-17;Svensk Sjöföda AB;Brovallavägen 231;08-123 45 67;3
-18;Aux joyeux ecclésiastiques;203, Rue des Francs-Bourgeois;(1) 03.83.00.68;2
-19;New England Seafood Cannery;Order Processing Dept. 2100 Paul Revere Blvd.;(617) 555-3267;4
-20;Leka Trading;471 Serangoon Loop, Suite #402;555-8787;2
-21;Lyngbysild;Lyngbysild Fiskebakken 10;43844108;1
-22;Zaanse Snoepfabriek;Verkoop Rijnweg 22;(12345) 1212;2
-23;Karkki Oy;Valtakatu 12;(953) 10956;3
-24;G'day, Mate;170 Prince Edward Parade Hunter's Hill;(02) 555-5914;2
-25;Ma Maison;2960 Rue St. Laurent;(514) 555-9022;3
-26;Pasta Buttini s.r.l.;Via dei Gelsomini, 153;(089) 6547665;2
-27;Escargots Nouveaux;22, rue H. Voiron;85.57.00.07;2
-28;Gai pâturage;Bat. B 3, rue des Alpes;38.76.98.06;3
-29;Forêts d'érables;148 rue Chasseur;(514) 555-2955;2
+IdProveedor;NombreProveedor;Direccion;Telefono
+1;Exotic Liquid;49 Gilbert St.;(171) 555-2222
+2;New Orleans Cajun Delights;P.O. Box 78934;(100) 555-4822
+3;Grandma Kelly's Homestead;707 Oxford Rd.;(313) 555-5735
+4;Tokyo Traders;9-8 Sekimai Musashino-shi;(03) 3555-5011
+5;Cooperativa de Quesos 'Las Cabras';Calle del Rosal 4;(98) 598 76 54
+6;Mayumi's;92 Setsuko Chuo-ku;(06) 431-7877
+7;Pavlova, Ltd.;74 Rose St. Moonie Ponds;(03) 444-2343
+8;Specialty Biscuits, Ltd.;29 King's Way;(161) 555-4448
+9;PB Knäckebröd AB;Kaloadagatan 13;031-987 65 43
+10;Refrescos Americanas LTDA;Av. das Americanas 12.890;(11) 555 4640
+11;Heli Süßwaren GmbH & Co. KG;Tiergartenstraße 5;(010) 9984510
+12;Plutzer Lebensmittelgroßmärkte AG;Bogenallee 51;(069) 992755
+13;Nord-Ost-Fisch Handelsgesellschaft mbH;Frahmredder 112a;(04721) 8713
+14;Formaggi Fortini s.r.l.;Viale Dante, 75;(0544) 60323
+15;Norske Meierier;Hatlevegen 5;(0)2-953010
+16;Bigfoot Breweries;3400 - 8th Avenue Suite 210;(503) 555-9931
+17;Svensk Sjöföda AB;Brovallavägen 231;08-123 45 67
+18;Aux joyeux ecclésiastiques;203, Rue des Francs-Bourgeois;(1) 03.83.00.68
+19;New England Seafood Cannery;Order Processing Dept. 2100 Paul Revere Blvd.;(617) 555-3267
+20;Leka Trading;471 Serangoon Loop, Suite #402;555-8787
+21;Lyngbysild;Lyngbysild Fiskebakken 10;43844108
+22;Zaanse Snoepfabriek;Verkoop Rijnweg 22;(12345) 1212
+23;Karkki Oy;Valtakatu 12;(953) 10956
+24;G'day, Mate;170 Prince Edward Parade Hunter's Hill;(02) 555-5914
+25;Ma Maison;2960 Rue St. Laurent;(514) 555-9022
+26;Pasta Buttini s.r.l.;Via dei Gelsomini, 153;(089) 6547665
+27;Escargots Nouveaux;22, rue H. Voiron;85.57.00.07
+28;Gai pâturage;Bat. B 3, rue des Alpes;38.76.98.06
+29;Forêts d'érables;148 rue Chasseur;(514) 555-2955
