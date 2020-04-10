@@ -24,3 +24,15 @@ ADD CONSTRAINT FK_Cliente
 FOREIGN KEY (IdCliente)
 REFERENCES examen.Cliente(IdCliente)
 
+
+TRUNCATE TABLE examen.CategoriaObra
+
+TRUNCATE TABLE examen.DetalleOrden
+
+TRUNCATE TABLE examen.Obra
+
+TRUNCATE TABLE examen.Orden
+
+TRUNCATE TABLE examen.Cliente
+
+TRUNCATE TABLE examen.Proveedor
