@@ -3,7 +3,7 @@
 SELECT TOP 5 Cantidad, IdObra
 FROM examen.DetalleOrden
 GROUP BY Cantidad, IdObra
-ORDER BY COUNT(5) DESC
+ORDER BY COUNT(Cantidad) DESC
 
 
 --los top 5 clientes más frecuentes
