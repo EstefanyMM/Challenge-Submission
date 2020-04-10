@@ -38,3 +38,21 @@ GROUP BY
 	            WHEN MONTH(FechaFinal) < 7 THEN '1P'
 				ELSE '2P'
 	        END
+
+
+--Obra/Mes/Numero de ordenes realizadas	
+
+SELECT 
+      NombreEvento,
+	  MONTH(FechaFinal) AS mes,
+	  do.IdObra AS #Ordenes
+FROM examen.Orden as o
+INNER JOIN examen.DetalleOrden as do
+ON 	o.IdOrden = do.IdOrden
+INNER JOIN examen.Obra as ob
+ON do.IdObra = ob.IdObra
+WHERE YEAR(FechaFinal) = 1996
+GROUP BY    NombreEvento,
+            MONTH(FechaFinal),
+			do.IdObra
+ORDER BY do.IdObra
