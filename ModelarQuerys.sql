@@ -56,3 +56,25 @@ GROUP BY    NombreEvento,
             MONTH(FechaFinal),
 			do.IdObra
 ORDER BY do.IdObra
+
+
+--Proveedor/Año	/Mes/Cuanto Gano	
+
+SELECT 	
+      o.IdProveedor,
+	  p.NombreProveedor,
+	  YEAR(od.FechaFinal) as Anio,
+	  MONTH(od.FechaFinal) as Mes,
+	  SUM((o.Precio*do.Cantidad)* 0.15) as GananciaProveedor
+FROM examen.Obra as o
+INNER JOIN examen.Proveedor p
+ON o.IdProveedor = p.IdProveedor
+INNER JOIN examen.DetalleOrden as do
+ON o.IdObra = do.IdObra
+INNER JOIN examen.Orden as od
+ON do.IdOrden = od.IdOrden
+GROUP BY  o.IdProveedor,
+          p.Nombreproveedor,
+          YEAR(od.FechaFinal),
+		  MONTH(od.FechaFinal)
+Order BY GananciaProveedor ASC
