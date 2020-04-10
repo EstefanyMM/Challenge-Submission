@@ -1,30 +1,3 @@
-ALTER TABLE examen.Obra
-ADD CONSTRAINT FK_Proveedor
-FOREIGN KEY (IdProveedor)
-REFERENCES examen.Proveedor(IdProveedor)
-
-ALTER TABLE examen.Obra
-ADD CONSTRAINT FK_CategoriaObra
-FOREIGN KEY (IdCategoriaObra)
-REFERENCES examen.CategoriaObra(IdCategoriaObra)
-
-ALTER TABLE examen.DetalleOrden
-ADD CONSTRAINT FK_Obra
-FOREIGN KEY (IdObra)
-REFERENCES examen.Obra(IdObra)
-
-ALTER TABLE examen.DetalleOrden
-ADD CONSTRAINT FK_Orden
-FOREIGN KEY (IdOrden)
-REFERENCES examen.Orden(IdOrden)
-
-
-ALTER TABLE examen.Orden
-ADD CONSTRAINT FK_Cliente
-FOREIGN KEY (IdCliente)
-REFERENCES examen.Cliente(IdCliente)
-
-
 TRUNCATE TABLE examen.CategoriaObra
 
 TRUNCATE TABLE examen.DetalleOrden
@@ -36,3 +9,46 @@ TRUNCATE TABLE examen.Orden
 TRUNCATE TABLE examen.Cliente
 
 TRUNCATE TABLE examen.Proveedor
+------------------------------------------------------------------------------------------
+
+ALTER TABLE examen.Obra
+ADD CONSTRAINT FK_Proveedor
+FOREIGN KEY (IdProveedor)
+REFERENCES examen.Proveedor(IdProveedor)
+
+ALTER TABLE examen.Obra
+ADD CONSTRAINT FK_CategoriaObra
+FOREIGN KEY (IdCategoriaObra)
+REFERENCES examen.CategoriaObra(IdCategoriaObra)
+------------------------------------------------------------------------------------------
+ALTER TABLE examen.DetalleOrden
+ADD CONSTRAINT FK_Obra
+FOREIGN KEY (IdObra)
+REFERENCES examen.Obra(IdObra)
+
+ALTER TABLE examen.DetalleOrden
+ADD CONSTRAINT FK_Orden
+FOREIGN KEY (IdOrden)
+REFERENCES examen.Orden(IdOrden)
+------------------------------------------------------------------------------------------
+
+ALTER TABLE examen.Orden
+ADD CONSTRAINT FK_Cliente
+FOREIGN KEY (IdCliente)
+REFERENCES examen.Cliente(IdCliente)
+---------------------------------------------------------------------------------------------
+
+
+TRUNCATE TABLE examen.DetalleOrden
+
+DELETE FROM examen.Obra
+DELETE FROM examen.Orden
+
+DELETE FROM examen.Cliente
+DELETE FROM examen.Proveedor
+DELETE FROM examen.CategoriaObra 
+
+
+
+
+
